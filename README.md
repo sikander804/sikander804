@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sikander804" alt="sikander804" /></a> </p>
 
-- 🔭 I’m currently working on [Re-View](https://re-view.ai/)
+- 🔭 I’m currently working on [Re-View AI](https://re-view.ai/) and [LSTN AI](https://lstn.ai/](https://lstn.ai/))
 
 - 💬 Ask me about **React, Next js and javascript**
 
